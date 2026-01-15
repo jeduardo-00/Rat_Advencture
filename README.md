@@ -10,7 +10,7 @@ Consulte **[Parte 1: Configuração Única do Ambiente](https://github.com/Danie
 
 ### 📋 Softwares instalados
 
-Com os devidos programas baixados e o projeto. Você vai adquirir o repositorio e abrir o MSYS2 MINGW64, colocando os seguintes comandos:
+Com os devidos programas baixados e o projeto. Você vai adquirir o repositorio e abrir o MSYS2 MINGW64 (Azul), colocando os seguintes comandos:
 
 #### Caminho do projeto
 ```
